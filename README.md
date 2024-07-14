@@ -1,6 +1,6 @@
 # CODTECH-TASK1
 
-Name:- Ambika Prasad Mehta
+Name:- AMBIKA PRASAD MEHTA
 Company: CODTECH IT SOLUTIONS
 ID: CT08DS2359
 Domain: Python Programming
